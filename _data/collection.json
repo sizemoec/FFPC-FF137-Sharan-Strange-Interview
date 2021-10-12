@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Sharan Strange Interview, 9/25/2004" ] },
+    "summary": { "en": [ "00:00 Reggie Young interviews Sharan Strange, camera stays on Strange" ] },
+    "items": [
+    ]
+}
